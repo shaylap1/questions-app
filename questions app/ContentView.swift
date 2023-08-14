@@ -52,7 +52,7 @@ struct ContentView: View {
             }
             .padding(.top, -90.0)
         }
-        .accentColor(.black)
+        .accentColor(.black) 
     }
 }
 
